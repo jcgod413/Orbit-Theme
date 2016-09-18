@@ -1,0 +1,21 @@
+.img-profile {
+	width: 120px;
+	height: 120px;
+}
+
+.sub-title {
+	padding-bottom: 10px;
+}
+
+.lang-select {
+	padding: 10px 0 0 0;
+}
+
+.padding-bottom {
+	padding-bottom : 10px;
+}
+
+.article-footer {
+    padding-top : 15px;
+    text-align: center;
+}
