@@ -19,3 +19,27 @@
     padding-top : 15px;
     text-align: center;
 }
+
+
+
+.img-responsive{
+  width: 100%;
+}
+#project_Title{
+  margin-bottom: 40px;
+}
+#project_Contents_title{
+  width: 100%;
+  height: 60px;
+  overflow: hidden;
+  color: #2d7788;
+  text-decoration: none;
+}
+#project_Contents_text{
+  height: 90px;
+  overflow-y: hidden;
+}
+
+li .active{
+  color: #fff;
+}
